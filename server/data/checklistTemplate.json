@@ -1,0 +1,1042 @@
+{
+  "areas": [
+    {
+      "areaId": "area-1",
+      "name": "Exemption from GST",
+      "month": "July",
+      "items": [
+        {
+          "itemId": "item-2",
+          "sn": 1,
+          "question": "Whether exemption from GST has been claimed on any particular transaction?"
+        },
+        {
+          "itemId": "item-3",
+          "sn": 2,
+          "question": "-If yes, pls list down nature/description of outward supply on which GST exemption claimed"
+        },
+        {
+          "itemId": "item-4",
+          "sn": 3,
+          "question": "Pls list down Notification No under which exemption was claimed"
+        },
+        {
+          "itemId": "item-5",
+          "sn": 4,
+          "question": "Pls put screen shot/entire notification in working folder"
+        },
+        {
+          "itemId": "item-6",
+          "sn": 5,
+          "question": "Check the conditions to avail the exemption have been complied or not?"
+        },
+        {
+          "itemId": "item-7",
+          "sn": 6,
+          "question": "-If not, pls mention conditions not fulfilled."
+        },
+        {
+          "itemId": "item-8",
+          "sn": 7,
+          "question": "Pls quantify amount of outward supply where condition of exemption is violated and provide billwise details in a separate sheet in file"
+        },
+        {
+          "itemId": "item-9",
+          "sn": 8,
+          "question": "Pls check whether client has been reminded on earlier occasions for non-fulfillment of conditions?"
+        },
+        {
+          "itemId": "item-10",
+          "sn": 9,
+          "question": "-If no, pls discuss with your Director"
+        },
+        {
+          "itemId": "item-11",
+          "sn": 10,
+          "question": "-If yes, pls put screen shot of an emails sents earlier in this sheet."
+        },
+        {
+          "itemId": "item-12",
+          "sn": 11,
+          "question": "Whether Bill of Supply have been Issued for Exempt Supply or Not?"
+        },
+        {
+          "itemId": "item-13",
+          "sn": 12,
+          "question": "If Not, please mention the reason for not issuing the Bill of Supply. This Needs to be Reported as Findings for the Clients"
+        },
+        {
+          "itemId": "item-14",
+          "sn": 13,
+          "question": "If Yes, Whether all disclosures mentioned in rule 49 are appearing on the Sample Bill of Supply? Such as-\n -Name, Address and GSTIN of Supplier\n -Consecutive Sr. No.  \n -Name, Address and GSTIN of Receiver\n -Date of Issue\n -HSN\n -Description of goods/Services\n -Value of Supply\n -Signature/Digital Sign"
+        },
+        {
+          "itemId": "item-15",
+          "sn": 14,
+          "question": "- If No, then point out exact details which are not disclosed on Bill of Supply.\n Update whether Client has been communicated about this thru an Email?"
+        }
+      ]
+    },
+    {
+      "areaId": "area-2",
+      "name": "Benefit of Reduction in GST rate",
+      "month": "October",
+      "items": [
+        {
+          "itemId": "item-16",
+          "sn": 15,
+          "question": "Whether reduction in normal GST rate has been claimed on any particular transacaction?"
+        },
+        {
+          "itemId": "item-17",
+          "sn": 16,
+          "question": "- If yes, pls list down nature/description of outward supply on which GST rate reduction is claimed"
+        },
+        {
+          "itemId": "item-18",
+          "sn": 17,
+          "question": "Pls list down Notification No under which exemption was claimed"
+        },
+        {
+          "itemId": "item-19",
+          "sn": 18,
+          "question": "Pls put screen shot/entire notification in working folder"
+        },
+        {
+          "itemId": "item-20",
+          "sn": 19,
+          "question": "Check the conditions to avail the reduction benefit have been complied or not?"
+        },
+        {
+          "itemId": "item-21",
+          "sn": 20,
+          "question": "- If not, pls mention conditions not fulfilled."
+        },
+        {
+          "itemId": "item-22",
+          "sn": 21,
+          "question": "Pls quantify amount of outward supply where condition of reduction in GST rate is violated and provide billwise details in a separate sheet in file"
+        },
+        {
+          "itemId": "item-23",
+          "sn": 22,
+          "question": "Pls check whether client has been reminded on earlier occasions for non-fulfillment of conditions?"
+        },
+        {
+          "itemId": "item-24",
+          "sn": 23,
+          "question": "- If no, pls discuss with your Director"
+        },
+        {
+          "itemId": "item-25",
+          "sn": 24,
+          "question": "- If yes, pls put screen shot of an emails sents earlier in this sheet."
+        }
+      ]
+    },
+    {
+      "areaId": "area-3",
+      "name": "Deemed Supply",
+      "month": "June",
+      "items": [
+        {
+          "itemId": "item-27",
+          "sn": 25,
+          "question": "Whether there is stock transfer of goods?"
+        },
+        {
+          "itemId": "item-28",
+          "sn": 26,
+          "question": "- If yes, pls tag the billwise list in working file"
+        },
+        {
+          "itemId": "item-29",
+          "sn": 27,
+          "question": "Pls provide the basis of valuation of said goods?"
+        },
+        {
+          "itemId": "item-30",
+          "sn": 28,
+          "question": "In case of stock transfer of goods, pls specify whether recipient is eligible for Full / Partial / No input set off \n\n - If not eligible for set off, pls discuss with reporting Director"
+        },
+        {
+          "itemId": "item-31",
+          "sn": 29,
+          "question": "Whether there is a provision of Services between one GSTIN to another of the client?"
+        },
+        {
+          "itemId": "item-32",
+          "sn": 30,
+          "question": "- If yes, pls tag the billwise list in working file"
+        },
+        {
+          "itemId": "item-33",
+          "sn": 31,
+          "question": "Pls provide the basis of valuation of said service?"
+        },
+        {
+          "itemId": "item-34",
+          "sn": 32,
+          "question": "If No provision of service, Have you obtained email confirmation for absence of provision of service between GST registrations?\n  - If Yes, pls enclose screen shot of Client's email in this file\n - If not, pls provide the reasons"
+        },
+        {
+          "itemId": "item-35",
+          "sn": 33,
+          "question": "Pls specify whether recipient is eligible for Full / Partial / No input set off \n - If not eligible for set off, pls discuss with reporting Director"
+        },
+        {
+          "itemId": "item-37",
+          "sn": 34,
+          "question": "Whether there is any supply of service to related party/group companies?"
+        },
+        {
+          "itemId": "item-38",
+          "sn": 35,
+          "question": "If yes, pls tag the billwise list in working file"
+        },
+        {
+          "itemId": "item-39",
+          "sn": 36,
+          "question": "Pls provide the basis of valuation of said services?"
+        },
+        {
+          "itemId": "item-40",
+          "sn": null,
+          "question": "If No provision of service, Have you obtained email confirmation for absence of provision of service between related parties/Group entities?\n  - If Yes, pls enclose screen shot of Client's email in this file\n - If not, pls provide the reasons"
+        },
+        {
+          "itemId": "item-41",
+          "sn": 37,
+          "question": "Whether recipient is eligible for input set off? \nIf not, pls discuss with your Director."
+        },
+        {
+          "itemId": "item-43",
+          "sn": 38,
+          "question": "Whether there is any supply of goods Or services to employees of Client"
+        },
+        {
+          "itemId": "item-44",
+          "sn": 39,
+          "question": "- If yes, pls tag the billwise list in working file"
+        },
+        {
+          "itemId": "item-45",
+          "sn": 40,
+          "question": "- If yes, pls tag the billwise list in working file"
+        },
+        {
+          "itemId": "item-46",
+          "sn": 41,
+          "question": "- If no, have you dropped confirmation mail / received mail from the Client?"
+        }
+      ]
+    },
+    {
+      "areaId": "area-4",
+      "name": "Sample Sale Or Free Sample",
+      "month": "September",
+      "items": [
+        {
+          "itemId": "item-48",
+          "sn": 42,
+          "question": "Whether there is sale of samples by client?"
+        },
+        {
+          "itemId": "item-49",
+          "sn": 42.1,
+          "question": "- If Yes, what is the mechanism for determing the sale value charged to client and whether GST was charged and paid?"
+        },
+        {
+          "itemId": "item-50",
+          "sn": 42.2,
+          "question": "- If No, have you scrutinised Trial Balance to search the Ledger named as 'Samples', 'Free Samples' etc"
+        },
+        {
+          "itemId": "item-51",
+          "sn": 43,
+          "question": "Whether Client has given any free samples to its clients/prospects?"
+        },
+        {
+          "itemId": "item-52",
+          "sn": 44,
+          "question": "- If Yes, provide list of goods supplied, its purchase price, GST paid on purchase in this file"
+        },
+        {
+          "itemId": "item-53",
+          "sn": 45,
+          "question": "Whether ITC on these goods which are given free have been reversed? If yes, pls put workings in your file."
+        },
+        {
+          "itemId": "item-54",
+          "sn": 46,
+          "question": "- If not, pls discuss with your Director"
+        },
+        {
+          "itemId": "item-55",
+          "sn": 47,
+          "question": "Pls check whether client has been reminded on earlier occasions for requirement of reversal of ITC?"
+        },
+        {
+          "itemId": "item-56",
+          "sn": 48,
+          "question": "- If yes, pls put screen shot of an emails sents earlier in this sheet."
+        },
+        {
+          "itemId": "item-57",
+          "sn": 49,
+          "question": "- If no, pls discuss with your Director"
+        }
+      ]
+    },
+    {
+      "areaId": "area-5",
+      "name": "Advance received",
+      "month": "Every Month",
+      "items": [
+        {
+          "itemId": "item-59",
+          "sn": 50,
+          "question": "Whether client is dealing in outward service/s?"
+        },
+        {
+          "itemId": "item-60",
+          "sn": 51,
+          "question": "-If yes, pls provide name of taxable services provided"
+        },
+        {
+          "itemId": "item-61",
+          "sn": 52,
+          "question": "Whether GST has been paid on receipt of each advance for taxable services?"
+        },
+        {
+          "itemId": "item-62",
+          "sn": 53,
+          "question": "- If yes, provide working of GST paid on advances"
+        },
+        {
+          "itemId": "item-63",
+          "sn": 54,
+          "question": "- If no, pls quantify GST to be paid on advance alnog with interest (in case delay) and attach separate sheet"
+        },
+        {
+          "itemId": "item-64",
+          "sn": 55,
+          "question": "Whether advance received in current period is separatey disclosed in GSTR-1 under Table 11A(1) and 11A(2)? \nIf yes, put screen shot of Table 11 of current R-1 in working file"
+        },
+        {
+          "itemId": "item-65",
+          "sn": 56,
+          "question": "- If not, pls report this in your report"
+        },
+        {
+          "itemId": "item-66",
+          "sn": 57,
+          "question": "Whether adjustment of advance which was received earlier is made in Tax calculations during the period?"
+        },
+        {
+          "itemId": "item-67",
+          "sn": 58,
+          "question": "- If yes, whether receipt of advance was shown in GSTR-1 under Table 11A(1) and 11A(2)? \nPls memtion month of R-1 and put screen shot of Table 11 of that R-1 in working file"
+        },
+        {
+          "itemId": "item-68",
+          "sn": 59,
+          "question": "- If not, pls quantify excess GST paid (i.e. on advance earlier and on current billing) and report this in your report"
+        },
+        {
+          "itemId": "item-69",
+          "sn": 60,
+          "question": "For advance received, Whether GST liability is created in the books of account under Outward GST Payable/Liability GL?\n If yes, pls put a screen shot of each entry in working file."
+        },
+        {
+          "itemId": "item-70",
+          "sn": 61,
+          "question": "- If not, pls report this in your report"
+        },
+        {
+          "itemId": "item-71",
+          "sn": 62,
+          "question": "For advance adjusted, Whether GST liability is reversed in the books of account under Outward GST Payable/Liability GL? \nIf yes, pls put a screen shot of each entry in working file."
+        },
+        {
+          "itemId": "item-72",
+          "sn": 63,
+          "question": "- If not, pls report this in your report"
+        },
+        {
+          "itemId": "item-73",
+          "sn": 64,
+          "question": "Have you done Debtors balance review?\n\nIs there any Credit balance in any of Debtors accounts?"
+        },
+        {
+          "itemId": "item-74",
+          "sn": 65,
+          "question": "Pls put a screen shot of all debtors GLs - showing opening, current Dr and Cr, closing balance"
+        }
+      ]
+    },
+    {
+      "areaId": "area-6",
+      "name": "Sale of assets",
+      "month": "November",
+      "items": [
+        {
+          "itemId": "item-76",
+          "sn": 66,
+          "question": "Whether there is any sale of Fixed assets or scrap sale?"
+        },
+        {
+          "itemId": "item-77",
+          "sn": 66.1,
+          "question": "- If yes, pls tag working of GST payable along with date of purchase, ITC availed on purchase, month of ITC availed, sale price, WDV of assets as per Income Tax Act. Also, enclose working of ITC to be reversed"
+        },
+        {
+          "itemId": "item-78",
+          "sn": 66.2,
+          "question": "- If no, have you verified all items appearing on the Credit side of Fixed Assets in the Balance Sheet?"
+        },
+        {
+          "itemId": "item-79",
+          "sn": 66.3,
+          "question": "- If yes, pls put a screen shot of credit side with narration in working file."
+        }
+      ]
+    },
+    {
+      "areaId": "area-7",
+      "name": "Export of Goods",
+      "month": "August",
+      "items": [
+        {
+          "itemId": "item-81",
+          "sn": 67,
+          "question": "Whether export of goods is with Payment of GST or Without Payment?"
+        },
+        {
+          "itemId": "item-82",
+          "sn": 68,
+          "question": "In case of Without Payment, whether Letter of Undertaking/Bond for current Financial Year has been filed?"
+        },
+        {
+          "itemId": "item-83",
+          "sn": 68.1,
+          "question": "- If yes, pls provide LUT number and put a screen short of LUT no. in our working file"
+        },
+        {
+          "itemId": "item-84",
+          "sn": 68.2,
+          "question": "- If not, then pls report this in your report and discuss with your reporting Director"
+        },
+        {
+          "itemId": "item-86",
+          "sn": 69,
+          "question": "In case of With Payment, whether IGST has been charged on all Export sales during the period? If yes, provide provide list in working file."
+        },
+        {
+          "itemId": "item-87",
+          "sn": 70,
+          "question": "- If not, pls provide the reasons and discuss this with your reporting Director"
+        },
+        {
+          "itemId": "item-89",
+          "sn": 71,
+          "question": "Have you checked whether there is any restriction in Rule 89 or so for opting for With Payment Or Without Payment option?"
+        },
+        {
+          "itemId": "item-91",
+          "sn": 72,
+          "question": "Whether IGST charged on export has been accountd in books of accounts in IGST Payable GL? If yes, pls put a screen short of sample entries in your working file."
+        },
+        {
+          "itemId": "item-92",
+          "sn": 73,
+          "question": "Whether IGST is charged on Export Invoice issued to client?  If yes, pls put a screen short of sample export invoices in your working file."
+        },
+        {
+          "itemId": "item-93",
+          "sn": 74,
+          "question": "Whether IGST charged on export sales has been reported in GSTR-1 under Table 6A ?"
+        },
+        {
+          "itemId": "item-94",
+          "sn": 75,
+          "question": "Whether Shipping Bills have been verified for knowing CIF value and FOB value? If yes, pls put a screen short of sample SBs (relevant portions) in your working file."
+        },
+        {
+          "itemId": "item-95",
+          "sn": 76,
+          "question": "- Is there any difference between 'taxable value' as per Tax Invoice and as per FOB value as per Shipping Bill? If yes, provide SBwise details of such difference in working file. Report this to your Reporting Director."
+        },
+        {
+          "itemId": "item-96",
+          "sn": 77,
+          "question": "Whether you have asked for copy of EBC/FIRC from client for export sales made in current year?"
+        },
+        {
+          "itemId": "item-97",
+          "sn": 78,
+          "question": "- If yes, whether have you dropped an email to client for getting copy of EBC/FIRC for payment received for said exports? If Yes, pls provide screen sort of email in working file."
+        },
+        {
+          "itemId": "item-98",
+          "sn": 79,
+          "question": "- If not, pls report this in your report. Also, in your report, you need to mention that, copy of EBC/FIRC are awaited as per your email."
+        },
+        {
+          "itemId": "item-99",
+          "sn": 80,
+          "question": "Have you checked entire set of export documentation such as Tax Invoice, Packing list, E-Way bill generated, Lorry Receipt, Shipping Bill?"
+        },
+        {
+          "itemId": "item-100",
+          "sn": 81,
+          "question": "- if yes, pls put a screen short of a sample set of all above mentioned documents in your working file."
+        }
+      ]
+    },
+    {
+      "areaId": "area-8",
+      "name": "Sale to Merchant Exporter",
+      "month": "November",
+      "items": [
+        {
+          "itemId": "item-102",
+          "sn": 82,
+          "question": "Whether client has exported goods at the IGST rate of 0.1%? If yes, pls provide separate list of such cases in your working file."
+        },
+        {
+          "itemId": "item-103",
+          "sn": 83,
+          "question": "Have you checked Shipping Bill of Client's buyer? If yes, whether GSTIN of your Client and client's Tax Invoice number appears on said Shipping Bills?"
+        },
+        {
+          "itemId": "item-104",
+          "sn": 84,
+          "question": "- If yes, pls put a screen short of relevant portion where Client's name and Tax Invoice number appears on Shipping Bills in your working file."
+        },
+        {
+          "itemId": "item-105",
+          "sn": 85,
+          "question": "- If not, whether you have sent an email to client for getting all Shipping Bills of buyer? If yes, provide screen shot of an email sent to client."
+        },
+        {
+          "itemId": "item-106",
+          "sn": 86,
+          "question": "Similary, have you verified Pending Shipping Bills of buyer for earlier period? If yes, provide screen shot of relevant portion where Client's name and Tax Invoice number appears on Shipping Bills in your working file."
+        },
+        {
+          "itemId": "item-107",
+          "sn": 87,
+          "question": "- If not, then for Pending Shipping Bills of buyer, have you dropped a Reminder email to the client for getting earlier SBs?"
+        },
+        {
+          "itemId": "item-108",
+          "sn": 88,
+          "question": "Pls provide the details in separate sheet, such as Date of Client's Tax Invoice, Date of Shipping Bill for that particular Tax Invoice"
+        },
+        {
+          "itemId": "item-109",
+          "sn": 89,
+          "question": "Have you got the Export General Manifest Or Export report for each Tax Invoices on export of goods? If not, have you sent email to clients for getting this?"
+        },
+        {
+          "itemId": "item-110",
+          "sn": 90,
+          "question": "What is export sale done earlier for which Export General manifest / Export Report is pending to be received from the client till date? Have you sent reminder emails? Pls Yes, pls put screen shot of email reminders sent to client."
+        },
+        {
+          "itemId": "item-111",
+          "sn": 91,
+          "question": "Have you checked entire set of export documentation such as Tax Invoice, Packing list, E-Way bill generated, Lorry Receipt, Shipping Bill?"
+        },
+        {
+          "itemId": "item-112",
+          "sn": 92,
+          "question": "- if yes, pls put a screen short of a sample set of all above mentioned documents in your working file."
+        }
+      ]
+    },
+    {
+      "areaId": "area-9",
+      "name": "Supply to SEZ",
+      "month": "April",
+      "items": [
+        {
+          "itemId": "item-114",
+          "sn": 93,
+          "question": "Whether there is any supply to SEZ? If yes, provide provide list in working file."
+        },
+        {
+          "itemId": "item-115",
+          "sn": 94,
+          "question": "Have you received (SEZ Officer's) Endorsed Copy of Client's tax Invoices for supply made to SEZ? \nIf Yes, pls provide screen shots in working file."
+        },
+        {
+          "itemId": "item-116",
+          "sn": 95,
+          "question": "- If not, whether have you sent an email to client for getting all endorsed copy of tax invoices? \nIf yes, provide screen shot of an email sent to client."
+        }
+      ]
+    },
+    {
+      "areaId": "area-10",
+      "name": "GST registration",
+      "month": "January",
+      "items": [
+        {
+          "itemId": "item-118",
+          "sn": 101,
+          "question": "Whether Client has updated change of office address or Warehouse / Factory locations in GST registration certificate?"
+        },
+        {
+          "itemId": "item-119",
+          "sn": 102,
+          "question": "Whether all Offices, godowns and Factory address appearing in Tax Invoices for Supply is appearing on the GST registration certificate?\nIf Not, Pls report this in your Review Report/Email to be send to the Client"
+        },
+        {
+          "itemId": "item-120",
+          "sn": 103,
+          "question": "Whether Client has applied for removal of any particular office/warehouse address in case of shift/sale/lease/change of current GST registered office address?"
+        },
+        {
+          "itemId": "item-121",
+          "sn": 104,
+          "question": "Whether Client is maintaining the records at the all registered locations such as Supply invoices, purchase invoices, stock records etc?\n\nIf Not, Pls report this in your Review Report/Email to be send to the Client"
+        }
+      ]
+    },
+    {
+      "areaId": "area-11",
+      "name": "Place of Supply",
+      "month": "April",
+      "items": [
+        {
+          "itemId": "item-123",
+          "sn": 105,
+          "question": "Whether appropriate GST has been charged case of B2B supply.\nIf No, pls provide details and discuss with Reporting Director.\n\nIf Yes, pls provide samples of few Outward supply invoices for review of the Reviewer"
+        },
+        {
+          "itemId": "item-124",
+          "sn": 106,
+          "question": "Whether appropriate GST has been charged case of B2C supply.\nIf No, pls provide details and discuss with Reporting Director.\n\nIf Yes, pls provide samples of few Outward supply invoices for review of the Reviewer"
+        }
+      ]
+    },
+    {
+      "areaId": "area-12",
+      "name": "Time of Supply",
+      "month": "May",
+      "items": [
+        {
+          "itemId": "item-126",
+          "sn": 107,
+          "question": "At what time/event, sales bills are issued by the Client for:\n   - Goods sold:   \n   - Services provided:"
+        },
+        {
+          "itemId": "item-127",
+          "sn": null,
+          "question": "Pls go thru Work Orders/Sales Order issued by the Client for sale to its major customers.\n\nState How many Sale Orders/WOs have been reviewed by you.\n\nPls list 'Payment Terms' mentioned in the Sale Order/WO in this review sheet."
+        },
+        {
+          "itemId": "item-128",
+          "sn": 108,
+          "question": "Whether GST is paid on advance received in case of outward supply of Services?"
+        }
+      ]
+    },
+    {
+      "areaId": "area-13",
+      "name": "Valuation",
+      "month": "February",
+      "items": [
+        {
+          "itemId": "item-130",
+          "sn": 109,
+          "question": "Whether Tax is charged on all the element/components of the Tax Invoice. (including commission, packing, loading, unloading, freight/transportation/ delivery/courier charges/bank charges etc)\n\nPls state name of various elements billed by the Client and provide corrosponding sample sales invoices"
+        },
+        {
+          "itemId": "item-131",
+          "sn": 110,
+          "question": "If Cash Discount is issued at the time of issuing invoice, please check whether Taxable Value is reduced to that extent"
+        },
+        {
+          "itemId": "item-132",
+          "sn": 111,
+          "question": "In order to check whether price is the sole consideration, review the agreement of major customers (minutely read \"consideration\" clause of agreement)"
+        },
+        {
+          "itemId": "item-133",
+          "sn": 112,
+          "question": "If the customer is a Centre/State Government, and Subsidy/Incentive is paid by the said Govt, then please check whether the Taxable Value includes the value of Subsidy/Incentive on which Tax is charged. \n\nIf not then discuss this with your Senior."
+        },
+        {
+          "itemId": "item-134",
+          "sn": 113,
+          "question": "Please check whether any Interest/ Penal Interest/ Penalty for delayed receipt of consideration is charged to the customer. \n\nIf yes, then please check what documents are issued for demanding this amount. If Tax Invoice is issued then please check whether entire amount of Interest / Penal Interest/ Penalty are recovered from the customers. \n\n-If the entire demanded interest is recovered in the same period, then please check whether GST is paid/considered in Tax calculation for the Current month.\n-If partial interest is recovered in the same period, then please check whether GST is paid/considered in Tax calculation for the Current month on the actual receipt.\n-If no interest is recovered in the same period, then please check whether NO GST should be paid/considered in Tax calculation for the Current month."
+        },
+        {
+          "itemId": "item-135",
+          "sn": 114,
+          "question": "- if Tax Invoice is not issued then please check the type of document issued and discuss the same with your senior (wherever the actual realisation of Interest/Penal Interest/Penalty happens then Tax Invoice should be the issued and Tax should be paid)."
+        },
+        {
+          "itemId": "item-137",
+          "sn": null,
+          "question": "In respect of transactions with Related parties:"
+        },
+        {
+          "itemId": "item-138",
+          "sn": null,
+          "question": "In order to identify the related parties of the customer, following steps to be undertaken:"
+        },
+        {
+          "itemId": "item-139",
+          "sn": 115,
+          "question": "- Reading of the Table/List of the Related Party disclosures from the Last Audited Financials"
+        },
+        {
+          "itemId": "item-140",
+          "sn": 116,
+          "question": "-Reading of the Fact Sheet of the Client."
+        },
+        {
+          "itemId": "item-141",
+          "sn": 117,
+          "question": "-Name of the Companies which are operating form the customers premises are displayed at the reception of the Client's office. \nAny such names of companies observed there shall be cross-checked with the Sales or Purchase register to check whether any transaction is done with such companies.\nIf there are no transactions with such entities then discuss this with your seniors."
+        }
+      ]
+    },
+    {
+      "areaId": "area-14",
+      "name": "Credit Notes",
+      "month": "Every Month",
+      "items": [
+        {
+          "itemId": "item-143",
+          "sn": 118,
+          "question": "Whether the client has issued Credit Notes in the Current Period(Please review the signed copy of CN), \nIf Yes please mention below the reasons for the Issuance of CN"
+        },
+        {
+          "itemId": "item-144",
+          "sn": null,
+          "question": "Reason 1: _________________"
+        },
+        {
+          "itemId": "item-145",
+          "sn": null,
+          "question": "Reason 2: _________________"
+        },
+        {
+          "itemId": "item-146",
+          "sn": null,
+          "question": "Reason 3: _________________"
+        },
+        {
+          "itemId": "item-148",
+          "sn": null,
+          "question": "(Credit Note can be issued for 3 reasons: Taxable Value charged on a higher side (Discount), Goods return & Deficiency in the Goods or Service supply.)"
+        },
+        {
+          "itemId": "item-150",
+          "sn": 119,
+          "question": "If CN is issued for discount then check the date of original sale invoice:\n-If the said invoice date pertains to Current Year then please check the sales order/ contract with customers client as to whether the said agreement covers the issuance of discount.\n\n-If the said invoice date pertains to Previous Financial Year then please check the review month should be of or before September. \n\nIf not please discuss with the senior. \n\n-Please check whether the CN for discount are correctly reported in GSTR-1 as the recipient has to reduced its Input Tax Credit to this extent, hence reporting of CN in GSTR-1 will be reflected in the GSTR-2B of the recipient."
+        },
+        {
+          "itemId": "item-151",
+          "sn": 120,
+          "question": "If the CN is for goods return:\n-If the said invoice date pertains to Current Year then please check the sales order/ contract with customers client.\n\n-If the said invoice date pertains to Previous Financial Year then please check the review month should be of or before September. If not please discuss with the senior.\n\n-Please check whether the CN for goods return are correctly reported in GSTR-1."
+        },
+        {
+          "itemId": "item-153",
+          "sn": 121,
+          "question": "If the CN is for deficiency (Goods rejection/Quality Issue/Inferior Service Quality, etc):\n-If the original supply invoice date pertains to Current Year then please check the sales order/ contract with customers client.\n\n-If the original supply invoice date pertains to Previous Financial Year then please check the review month should be of or before September. If not please discuss with the senior.\n\n-Please check whether the CN for deficiency is correctly reported in GSTR-1."
+        },
+        {
+          "itemId": "item-155",
+          "sn": null,
+          "question": "Cancellation of contracts with customers"
+        },
+        {
+          "itemId": "item-156",
+          "sn": 122,
+          "question": "If there are any cancellation of Contracts with Customers, what is the reason for cancellation."
+        }
+      ]
+    },
+    {
+      "areaId": "area-15",
+      "name": "Input Credit",
+      "month": "March / September",
+      "items": [
+        {
+          "itemId": "item-158",
+          "sn": 123,
+          "question": "Pls obtain One sample Purchase Invoice from each of Top 10 Suppliers during the review period"
+        },
+        {
+          "itemId": "item-159",
+          "sn": 124,
+          "question": "Whether sample Purchase Invoice contains following details: \n  - name, address and GSTIN of the supplier\n  - name, address and GSTIN of the recipient\n  -a consecutive serial number not exceeding sixteen characters\n  - date of its issue\n  - HSN for goods/service\n  - Qty and Unit of goods supplied\n  - total value of supply of goods or services \n  - taxable value of the supply of goods or services\n  - rate of tax \n  - amount of tax charged\n  -place of supply along with the name of the State\n  -whether the tax is payable on reverse charge basis\n  - signature or digital signature of the supplier\n  - IRN"
+        },
+        {
+          "itemId": "item-160",
+          "sn": 125,
+          "question": "Whether sample ITC invoices contains IRN (Invoice Reference Numbers) on it?"
+        },
+        {
+          "itemId": "item-161",
+          "sn": 126,
+          "question": "Pls provide Name and GSTINs for Top 10 major Suppliers to the Client during the review period?"
+        },
+        {
+          "itemId": "item-162",
+          "sn": 127,
+          "question": "Whether name and GSTIN of the Supplier whose Invoice does not have IRN mentioned, is appearing the E-Invoice Mandatory List of GSTIN?"
+        },
+        {
+          "itemId": "item-163",
+          "sn": 128,
+          "question": "Is there any Purchases and Expenses are being capitalised under Capital WIP / Building / Factory Building / Admin Office / Head office etc?"
+        },
+        {
+          "itemId": "item-164",
+          "sn": 129,
+          "question": "- If Yes, Pls provide billwise list of purchases, GST charged and sample copy of each Invoice"
+        },
+        {
+          "itemId": "item-165",
+          "sn": 130,
+          "question": "Whether sample ITC invoices set contains E-Way Bills?\nIf Not, have you sent an email to the Client for reason of not having E-Way bills?"
+        },
+        {
+          "itemId": "item-166",
+          "sn": 131,
+          "question": "Have you scrutinised \"Input Credit Register\" with reference to \"Nature of Expenes/Purchases\" involved?"
+        },
+        {
+          "itemId": "item-167",
+          "sn": 132,
+          "question": "If Yes, list down Nature of Expenses/Goods where Input Credit is Availed by the Client"
+        },
+        {
+          "itemId": "item-168",
+          "sn": 133,
+          "question": "If Yes, list down Nature of Expenses/Goods where Input Credit is Not Availed by the Client"
+        },
+        {
+          "itemId": "item-169",
+          "sn": 134,
+          "question": "Is there any in-eligible ITC as enumerated in Section 17(5) of CGST Act?\n\nPls elaborate methodology followed by you in identifying the same."
+        }
+      ]
+    },
+    {
+      "areaId": "area-16",
+      "name": "Output Supply Invoice",
+      "month": "October",
+      "items": [
+        {
+          "itemId": "item-170",
+          "sn": 135,
+          "question": "Whether sample Sales Invoice contains following details: \n  - name, address and GSTIN of the Client \n  - name, address and GSTIN of the recipient\n  -a consecutive serial number not exceeding sixteen characters\n  - date of its issue\n  - HSN for goods/service\n  - Qty and Unit of goods supplied\n  - total value of supply of goods or services \n  - taxable value of the supply of goods or services\n  - rate of tax \n  - amount of tax charged\n  -place of supply along with the name of the State\n  -whether the tax is payable on reverse charge basis\n  - signature or digital signature of the supplier\n  - IRN"
+        }
+      ]
+    },
+    {
+      "areaId": "area-17",
+      "name": "GSTR-1",
+      "month": "Every Month",
+      "items": [
+        {
+          "itemId": "item-173",
+          "sn": 136,
+          "question": "Check whether the revenue amount as per the Sales register matches with the Corresponding Income Head in the Trail Balance"
+        },
+        {
+          "itemId": "item-174",
+          "sn": 137,
+          "question": "Similarly check whether Liability cloumns CGST, SGST and IGST payable as per the Sales register match with the Corresponding GST Tax ledger in the Trail Balance?"
+        },
+        {
+          "itemId": "item-175",
+          "sn": 138,
+          "question": "If not then pls check whether any entries have been passed by other than Sales Voucher mode"
+        },
+        {
+          "itemId": "item-176",
+          "sn": 139,
+          "question": "If yes, pls see its nature, its impact on revenue and tax payable"
+        },
+        {
+          "itemId": "item-177",
+          "sn": 140,
+          "question": "Check whether the B2B, B2Cl, B2Bs, SEZ and Export (with or without payment of tax) transactions are separately identified in the sales register, since the same are uploaded in different tables in the GSTR-1"
+        },
+        {
+          "itemId": "item-178",
+          "sn": 141,
+          "question": "Check whether Credit Notes are appropriately been disclosed in GSTR-1"
+        },
+        {
+          "itemId": "item-179",
+          "sn": null,
+          "question": "Pls check HSN Table and documents issued table is correctly filled is matching the invoice count of working"
+        },
+        {
+          "itemId": "item-180",
+          "sn": 142,
+          "question": "Pls check whether any amendments are required to be done in current GSTR-1"
+        }
+      ]
+    },
+    {
+      "areaId": "area-18",
+      "name": "GSTR-3B",
+      "month": "Every Month",
+      "items": [
+        {
+          "itemId": "item-181",
+          "sn": null,
+          "question": "GSTR-3B"
+        },
+        {
+          "itemId": "item-182",
+          "sn": 143,
+          "question": "Check whether revenue and tax liability to be disclosed in 3B is matching with the GSTR-1 filed?"
+        },
+        {
+          "itemId": "item-183",
+          "sn": 144,
+          "question": "- If not matching then pls check for reasons for it and discuss with senior for way forward"
+        },
+        {
+          "itemId": "item-184",
+          "sn": 145,
+          "question": "Identify the Supplies under the Reverse Charge mechanism (i.e. GTA, Legal Expenses)"
+        },
+        {
+          "itemId": "item-185",
+          "sn": 146,
+          "question": "Whether ITC availed as per 2B and whether both way Reco maintained?"
+        },
+        {
+          "itemId": "item-186",
+          "sn": 147,
+          "question": "Check whether the Inward Supply as per the Purchase register match with the Corresponding Expense Head in the Trail Balance"
+        },
+        {
+          "itemId": "item-187",
+          "sn": 148,
+          "question": "Similarly check whether the C/S/IGST as per the Purchase register match with the Corresponding Input GST Tax ledger in the Trail Balance"
+        },
+        {
+          "itemId": "item-188",
+          "sn": 149,
+          "question": "Pls check whether Input Credit is accounted in Books of account for Tax paid under RCM for last month"
+        },
+        {
+          "itemId": "item-189",
+          "sn": 150,
+          "question": "Pls check whether Output Tax Ledgers have been made zero by transfering the ITC utilised and tax payment ledgers"
+        },
+        {
+          "itemId": "item-190",
+          "sn": 151,
+          "question": "Pls check whether TDS and TCS (under GST) appearing on GSTIN portal is transferred to Eletronic Cash Ledger of that month? \n - If not then pls do the same first and then work out tax payable amount"
+        },
+        {
+          "itemId": "item-191",
+          "sn": 152,
+          "question": "Whether ITC reversal are correctly disclosed under Perment Reversal and Temporary Reversals in 3B?"
+        },
+        {
+          "itemId": "item-192",
+          "sn": 153,
+          "question": "Whether Re-availment of ITC due to matching with 2B was added in 'All Other ITC' and also reported under 'Table 4(D)(1)'?"
+        },
+        {
+          "itemId": "item-193",
+          "sn": 154,
+          "question": "Pls check whether any amendments, adjustment of tax etc are required to be done in current GSTR-3B"
+        },
+        {
+          "itemId": "item-194",
+          "sn": 155,
+          "question": "Pls check whether a reconciliation is prepared for Closing balance of Eletronic Credit Ledger vs. Books of account? \n - If not, pls discuss with senior"
+        },
+        {
+          "itemId": "item-195",
+          "sn": 156,
+          "question": "Provide Self Invoice issued for review month by the client"
+        }
+      ]
+    },
+    {
+      "areaId": "area-19",
+      "name": "RCM",
+      "month": "October",
+      "items": [
+        {
+          "itemId": "item-196",
+          "sn": 157,
+          "question": "Pls enclose extract of GLs/Ledgers (with narration) with GST paid/not-applicable remarks- Pls refer Annex-1:"
+        },
+        {
+          "itemId": "item-197",
+          "sn": 158,
+          "question": "Whether RCM liability was paid under correct head i.e. C+S GST Or IGST: POS verification"
+        },
+        {
+          "itemId": "item-198",
+          "sn": 158,
+          "question": "Attach Form 15CA&CB filed by client for review month. Is there any GST liability under RCM?"
+        },
+        {
+          "itemId": "item-199",
+          "sn": 159,
+          "question": "Pls attach YTD reco statement for Turnover, GST liability, RCM liability"
+        },
+        {
+          "itemId": "item-200",
+          "sn": 160,
+          "question": "Whether ITC availment is based on 2B matching of EACH invoice?"
+        },
+        {
+          "itemId": "item-201",
+          "sn": 161,
+          "question": "Whether Two way reco - ITC In Books but not in 2B and ITC In 2B but not in Books prepared?"
+        },
+        {
+          "itemId": "item-202",
+          "sn": 162,
+          "question": "- If No, pls preapre and discuss with reporting Director"
+        },
+        {
+          "itemId": "item-203",
+          "sn": 163,
+          "question": "Whether CN auto=populted in 2B which are matching with CN in Books are considered and ITC was reversed?"
+        },
+        {
+          "itemId": "item-204",
+          "sn": 164,
+          "question": "- If No, pls preapre the list and discuss with reporting Director"
+        },
+        {
+          "itemId": "item-205",
+          "sn": 165,
+          "question": "Whether any Notices, Orders etc have been displayed in GST portal during the review period?"
+        },
+        {
+          "itemId": "item-206",
+          "sn": 166,
+          "question": "- If Yes, pls discuss said Notice/Order with Reporting Director"
+        },
+        {
+          "itemId": "item-207",
+          "sn": 167,
+          "question": "From Which Month/Quarter professional fees of GSC are outstanding?"
+        }
+      ]
+    }
+  ]
+}

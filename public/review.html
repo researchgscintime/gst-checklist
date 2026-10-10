@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Checklist — GST Review Checklist</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%E2%9C%85</text></svg>" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1 id="entityName">Checklist</h1>
+    <div class="crumbs"><a id="backLink" href="/index.html">&larr; Back to entity</a></div>
+  </header>
+
+  <main>
+    <div class="sticky-bar card" style="padding:14px 18px;">
+      <div class="editable-title" style="margin-bottom:10px;">
+        <input type="text" id="titleInput" maxlength="150" />
+        <span class="period-badge hidden" id="periodBadge"></span>
+        <span class="spacer"></span>
+        <span class="save-indicator" id="globalSaveIndicator"></span>
+        <button id="saveBtn">Save checklist</button>
+      </div>
+      <div class="overall-progress">
+        <div class="progress-bar"><div id="overallBar" style="width:0%"></div></div>
+        <span id="overallLabel" style="font-size:0.82rem;color:var(--text-muted);white-space:nowrap;">0%</span>
+      </div>
+    </div>
+
+    <div class="toolbar">
+      <input type="search" id="filterBox" class="search-input" placeholder="Filter questions..." />
+      <button class="secondary" id="expandAllBtn">Expand all</button>
+      <button class="secondary" id="collapseAllBtn">Collapse all</button>
+      <div class="spacer"></div>
+      <a class="btn secondary" id="exportLink" href="#">Export to Excel</a>
+      <button class="danger" id="deleteReviewBtn">Delete checklist</button>
+    </div>
+
+    <div id="areasContainer"></div>
+  </main>
+
+  <script src="js/api.js"></script>
+  <script src="js/auth-header.js"></script>
+  <script src="js/review.js"></script>
+</body>
+</html>

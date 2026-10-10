@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Entity — GST Review Checklist</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%E2%9C%85</text></svg>" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1 id="entityTitle">Entity</h1>
+    <div class="crumbs"><a href="/index.html">&larr; All entities</a></div>
+  </header>
+
+  <main>
+    <p id="entityGst" class="gst" style="font-family:Consolas,monospace;color:var(--text-muted)"></p>
+
+    <div class="card period-picker">
+      <h3>Open a checklist</h3>
+      <p class="hint">Pick a month and financial year. If a checklist already exists for that period it will open with everything you saved; otherwise a new one is created.</p>
+      <form id="periodForm" class="period-form">
+        <div class="field">
+          <label for="monthSelect">Month</label>
+          <select id="monthSelect" required></select>
+        </div>
+        <div class="field">
+          <label for="fySelect">Financial year</label>
+          <select id="fySelect" required></select>
+        </div>
+        <button type="submit" id="openPeriodBtn">Open checklist</button>
+      </form>
+      <div class="error-text hidden" id="periodFormError"></div>
+    </div>
+
+    <div class="toolbar" style="margin-top:26px;">
+      <h3 style="margin:0;">Checklist history</h3>
+    </div>
+
+    <div id="reviewList" class="review-list"></div>
+    <div id="emptyState" class="empty-state hidden">
+      <p>No checklists yet for this entity. Pick a month and financial year above to start one.</p>
+    </div>
+  </main>
+
+  <dialog id="reviewDialog">
+    <form class="modal-body" id="reviewForm">
+      <h2>Rename checklist</h2>
+      <div class="field">
+        <label for="reviewTitle">Title</label>
+        <input type="text" id="reviewTitle" required maxlength="150" />
+      </div>
+      <div class="error-text hidden" id="reviewFormError"></div>
+      <div class="modal-actions">
+        <button type="button" class="secondary" id="reviewCancelBtn">Cancel</button>
+        <button type="submit">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="js/api.js"></script>
+  <script src="js/auth-header.js"></script>
+  <script src="js/entity.js"></script>
+</body>
+</html>

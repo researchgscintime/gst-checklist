@@ -1,0 +1,58 @@
+{
+  "entities": [
+    {
+      "id": "da625f07-c931-4e8f-af9d-72f97887dd7e",
+      "name": "xyz",
+      "gstNumber": "27AAAAA0000A1Z5",
+      "createdAt": "2026-09-09T06:27:04.332Z",
+      "updatedAt": "2026-09-09T06:27:04.332Z"
+    },
+    {
+      "id": "6c4dea4b-5fe9-4b5c-a6a4-4d63e7dff096",
+      "name": "asd",
+      "gstNumber": "26ASDEDEWEW1S5D",
+      "createdAt": "2026-09-09T10:11:18.798Z",
+      "updatedAt": "2026-09-09T10:11:18.798Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "d1efd208-af1b-48a9-9123-6bea428405f2",
+      "entityId": "da625f07-c931-4e8f-af9d-72f97887dd7e",
+      "title": "GST Review - September 2026",
+      "createdAt": "2026-09-09T06:27:13.397Z",
+      "updatedAt": "2026-09-09T06:27:13.397Z",
+      "answers": {}
+    },
+    {
+      "id": "1a4969b6-9049-46bb-8f3e-5f9d10eeaf49",
+      "entityId": "6c4dea4b-5fe9-4b5c-a6a4-4d63e7dff096",
+      "title": "October 2026-27",
+      "month": "October",
+      "financialYear": "2026-27",
+      "createdAt": "2026-09-12T10:00:41.573Z",
+      "updatedAt": "2026-09-12T10:00:41.573Z",
+      "answers": {}
+    },
+    {
+      "id": "d4126c7d-671e-4711-886c-c5ea1d0f4126",
+      "entityId": "da625f07-c931-4e8f-af9d-72f97887dd7e",
+      "title": "July 2026-27",
+      "month": "July",
+      "financialYear": "2026-27",
+      "createdAt": "2026-09-19T07:06:27.365Z",
+      "updatedAt": "2026-09-19T07:06:27.365Z",
+      "answers": {}
+    },
+    {
+      "id": "45e862e1-b296-4b08-a99c-848e39932832",
+      "entityId": "6c4dea4b-5fe9-4b5c-a6a4-4d63e7dff096",
+      "title": "September 2026-27",
+      "month": "September",
+      "financialYear": "2026-27",
+      "createdAt": "2026-09-23T05:38:27.379Z",
+      "updatedAt": "2026-09-23T05:38:27.379Z",
+      "answers": {}
+    }
+  ]
+}

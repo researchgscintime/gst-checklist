@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GST Review Checklist</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%E2%9C%85</text></svg>" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>GST Review Checklist</h1>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <input type="search" id="searchBox" class="search-input" placeholder="Search entities by name or GST number..." />
+      <select id="ownerFilter" class="hidden"></select>
+      <div class="spacer"></div>
+      <select id="importOwnerSelect" class="hidden" title="Assign imported entities to"></select>
+      <a class="btn secondary" href="/api/entities/import/template">Download import template</a>
+      <button class="secondary" id="importBtn">Import entities</button>
+      <button id="addEntityBtn">+ Add entity</button>
+    </div>
+
+    <input type="file" id="importFile" accept=".xlsx" class="hidden" />
+
+    <div id="importSummary"></div>
+
+    <div id="entityGrid" class="entity-grid"></div>
+    <div id="emptyState" class="empty-state hidden">
+      <p>No entities yet. Add one, or import many at once using the Excel template above.</p>
+    </div>
+  </main>
+
+  <dialog id="entityDialog">
+    <form class="modal-body" id="entityForm">
+      <h2 id="entityDialogTitle">Add entity</h2>
+      <div class="field">
+        <label for="entityName">Entity name</label>
+        <input type="text" id="entityName" required maxlength="200" autocomplete="off" />
+      </div>
+      <div class="field">
+        <label for="entityGst">GST number</label>
+        <input type="text" id="entityGst" required maxlength="15" placeholder="e.g. 27AAAAA0000A1Z5" style="text-transform:uppercase" autocomplete="off" />
+        <div class="hint">15-character GSTIN, and must be different from every other entity's GST number. Both fields are required.</div>
+      </div>
+      <div class="field hidden" id="entityOwnerField">
+        <label for="entityOwner">Assign to</label>
+        <select id="entityOwner"></select>
+      </div>
+      <div class="error-text hidden" id="entityFormError"></div>
+      <div class="modal-actions">
+        <button type="button" class="secondary" id="entityCancelBtn">Cancel</button>
+        <button type="submit" id="entitySaveBtn">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="js/api.js"></script>
+  <script src="js/auth-header.js"></script>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>
